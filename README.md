@@ -254,7 +254,3 @@ The following are potential next steps and are not implemented in the current co
 ## Scope note
 
 AquaSense in this repository is the backend/API foundation and a simulated controller. It currently does not persist historical readings, authenticate IoT devices, receive telemetry through a POST endpoint, or establish that water is safe to drink. Sensor readings and water-quality interpretation require calibrated hardware and appropriate testing.
-
-## License
-
-No license is included. Add a `LICENSE` file if you want to specify reuse and distribution terms.
